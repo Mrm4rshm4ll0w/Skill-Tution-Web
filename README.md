@@ -88,9 +88,6 @@ If you have questions or improvements — feel free to open an issue or submit a
 
 Happy coding! 🚀
 
-yaml
-Copy code
-
 ---
 
 If you want, I can also generate a **badges header** (like Stars, Live Demo, License, Issues) to make the README look even more professional. Just tell me the style you want!
