@@ -35,7 +35,7 @@ Skill‑Tution‑Web is a professional **digital marketing & skill development w
 ✔ Contact form/header  
 ✔ Multiple landing & service‑specific pages
 
-Built with simplicity and responsiveness in mind, it’s perfect for showcasing digital services online. :contentReference[oaicite:2]{index=2}
+Built with simplicity and responsiveness in mind, it’s perfect for showcasing digital services online.
 
 ---
 
@@ -89,6 +89,3 @@ If you have questions or improvements — feel free to open an issue or submit a
 Happy coding! 🚀
 
 ---
-
-If you want, I can also generate a **badges header** (like Stars, Live Demo, License, Issues) to make the README look even more professional. Just tell me the style you want!
-::contentReference[oaicite:3]{index=3}
